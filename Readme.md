@@ -1,20 +1,20 @@
-
+# Author
+Kaixiang Liu
 # React tic-tac-toe app
 
-![Screenshot of React Tic Tac Toe App](screenshot.png)
+![Screenshot of Tic Tac Toe App](screenshot.png)
 
 ## To Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/jahnltib/react-tic-tac-toe
-```
+  git clone https://github.com/onetrickollie/React_TicTacToe.git
 
 Go to the project directory
 
 ```bash
-  cd .../react-tic-tac-toe
+  cd .../TicTacToe
 ```
 
 Install dependencies
